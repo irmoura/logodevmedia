@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devmedialogo", "Devmedialogo.csproj", "{47A92697-0625-42AB-94FC-DAE116783081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A92697-0625-42AB-94FC-DAE116783081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A92697-0625-42AB-94FC-DAE116783081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A92697-0625-42AB-94FC-DAE116783081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A92697-0625-42AB-94FC-DAE116783081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C79741D0-5B7C-49F4-AB19-FD71CF54E407}
+	EndGlobalSection
+EndGlobal
